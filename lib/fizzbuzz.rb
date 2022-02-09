@@ -7,7 +7,10 @@
     In all other cases, the program simply returns the given number.
 
 =end
-  
+
+# To test in irb, use the below line of code
+# [*1..100].each { |num| puts fizzbuzz(num) }
+
 def fizzbuzz(number)
   return "fizzbuzz" if number % 15 == 0
   return "fizz" if number % 3 == 0 
