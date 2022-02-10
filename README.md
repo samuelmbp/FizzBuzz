@@ -1,15 +1,15 @@
-TDD FIZZBUZZ PROJECT
+# TDD FIZZBUZZ PROJECT
 
-WHAT IS FIZZBUZZ?
+## WHAT IS FIZZBUZZ?
 
-FizzBuzz Is a simple coding challenge. The objective of FizzBuzz is to create a program with the following specification: 
+### FizzBuzz Is a simple coding challenge. The objective of FizzBuzz is to create a program with the following specification: 
  
-  The program can be passed a number.
+  1. The program can be passed a number.
   
-  When passed a number that is a multiple of 3, the program returns the message 'Fizz'.
+  2. When passed a number that is a multiple of 3, the program returns the message 'Fizz'.
   
-  When passed a number that is a multiple of 5, the program returns the message 'Buzz'.
+  3. When passed a number that is a multiple of 5, the program returns the message 'Buzz'.
   
-  When passed a number that is a multiple of both 3 and 5, the program ignores the previous 2 rules and returns the message 'FizzBuzz'.
+  4.  When passed a number that is a multiple of both 3 and 5, the program ignores the previous 2 rules and returns the message 'FizzBuzz'.
   
-  In all other cases, the program simply returns the given number.
+  5.In all other cases, the program simply returns the given number.
