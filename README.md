@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TDD FIZZBUZZ PROJECT
 
 ## WHAT IS FIZZBUZZ?
@@ -13,3 +14,5 @@
   4.  When passed a number that is a multiple of both 3 and 5, the program ignores the previous 2 rules and returns the message 'FizzBuzz'.
   
   5.In all other cases, the program simply returns the given number.
+=======
+>>>>>>> parent of e9ee3a6 (Update README file)
