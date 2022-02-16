@@ -5,6 +5,9 @@
 > Introduction to Test Driven Development (TDD) and Pair Programming
 
 
+**Technologies**: Ruby, RSpec
+
+
 ## What is fizzbuzz?
 
 FizzBuzz Is a simple coding challenge. The objective of FizzBuzz is to create a program with the following specification: 
